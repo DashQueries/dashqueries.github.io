@@ -91,7 +91,7 @@
   top: 2212px;
   left: 117px;
   width: 874px;
-  height: 450px;
+  height: 500px;
   display: flex;
   padding: 24px 48px;
   position: absolute;
@@ -239,7 +239,7 @@
   text-decoration: none;
 }
 .final-infographic-searchbar {
-  top: 96%;
+  top: 97%;
   left: 17px;
   width: 1066px;
   height: 75px;
@@ -2522,7 +2522,7 @@
   text-decoration: none;
 }
 .final-infographic-regenerate-button {
-  top: 2666px;
+  top: 2766px;
   left: 781px;
   width: 184px;
   height: 37px;
