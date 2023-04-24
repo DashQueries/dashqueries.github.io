@@ -91,7 +91,7 @@
   top: 2212px;
   left: 117px;
   width: 874px;
-  height: 500px;
+  height: 490px;
   display: flex;
   padding: 24px 48px;
   position: absolute;
@@ -2503,7 +2503,7 @@
   border-radius: 515.3911743164062px;
 }
 .final-infographic-text158 {
-  top: 2750PX;
+  top: 2770px;
   left: 344px;
   color: var(--dl-color-default-grayfootprint);
   width: 888px;
@@ -2779,15 +2779,15 @@
 .final-infographic-vector4 {
   top: 120px;
   left: 100px;
-  width: 40%;
+  width: 42%;
   height: 233px;
   position: absolute;
 }
 
 .final-infographic-vector5 {
   top: 120px;
-  left: 60%;
-  width: 40%;
+  left: 55%;
+  width: 42%;
   height: 233px;
   position: absolute;
 }
