@@ -403,11 +403,15 @@
   background-color: transparent;
 }
 .final-infographic-svg02 {
-  top: 4px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  margin-bottom: 8px;
+  /*top: 4px;
   left: 4px;
   width: 13px;
   height: 13px;
-  position: absolute;
+  position: absolute;*/
 }
 .final-infographic-svg03 {
   top: 0px;
@@ -2394,11 +2398,10 @@
   background-color: transparent;
 }
 .final-infographic-svg10 {
-  top: 4px;
-  left: 4px;
-  width: 13px;
-  height: 13px;
-  position: absolute;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 12px;
 }
 .final-infographic-svg11 {
   top: 0px;
